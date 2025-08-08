@@ -1,0 +1,930 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-08-08T03:00:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/473368144",
+        "name": "Giant",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8071123,
+          -6.6013356
+        ]
+      },
+      "id": "node/473368144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1036890941",
+        "name": "Toserba Yogya Plaza Indah",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7905608,
+          -6.5616076
+        ]
+      },
+      "id": "node/1036890941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1560439255",
+        "brand": "Indomaret",
+        "brand:wikidata": "Q4262825",
+        "brand:wikipedia": "en:Indomaret",
+        "name": "Indomaret",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7791483,
+          -6.599493
+        ]
+      },
+      "id": "node/1560439255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1736011885",
+        "name": "IndoMaret",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8152344,
+          -6.6116907
+        ]
+      },
+      "id": "node/1736011885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1736977431",
+        "category": "Supermarket",
+        "name": "Total Buah Segar",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8163615,
+          -6.6199062
+        ]
+      },
+      "id": "node/1736977431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1736977441",
+        "name": "Matahari Foodmart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8176494,
+          -6.6219553
+        ]
+      },
+      "id": "node/1736977441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1736978021",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8208763,
+          -6.6173735
+        ]
+      },
+      "id": "node/1736978021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1736978316",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8203536,
+          -6.6181785
+        ]
+      },
+      "id": "node/1736978316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1784330956",
+        "name": "Circle K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8112997,
+          -6.6175115
+        ]
+      },
+      "id": "node/1784330956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1784335309",
+        "name": "Alfamart Midi",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8068886,
+          -6.6185199
+        ]
+      },
+      "id": "node/1784335309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1792922689",
+        "name": "Toko Budi",
+        "opening_hours": "Mo-Su 07:30-17:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8241946,
+          -6.6187627
+        ]
+      },
+      "id": "node/1792922689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1796601944",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7746016,
+          -6.5443941
+        ]
+      },
+      "id": "node/1796601944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1827288942",
+        "name": "Giant",
+        "petarakyat": "include",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8100186,
+          -6.6072248
+        ]
+      },
+      "id": "node/1827288942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1868241811",
+        "name": "Warung",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8219294,
+          -6.6185845
+        ]
+      },
+      "id": "node/1868241811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1977817580",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7532244,
+          -6.5669551
+        ]
+      },
+      "id": "node/1977817580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2271397474",
+        "name": "Indomart Vila Bogor Indah",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806349,
+          -6.5470836
+        ]
+      },
+      "id": "node/2271397474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2271402996",
+        "name": "Alfamart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8058687,
+          -6.5474486
+        ]
+      },
+      "id": "node/2271402996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2453693117",
+        "name": "Super Indo Pahlawan Bogor",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8039426,
+          -6.615775
+        ]
+      },
+      "id": "node/2453693117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2516800435",
+        "name": "Alfamart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.825494,
+          -6.6333399
+        ]
+      },
+      "id": "node/2516800435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2600946019",
+        "name": "Indomaret",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8310976,
+          -6.6374545
+        ]
+      },
+      "id": "node/2600946019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2624366580",
+        "name": "Super Indo Plaza Jembatan Merah",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7869464,
+          -6.5959716
+        ]
+      },
+      "id": "node/2624366580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3006527889",
+        "name": "Shangri-la Plaza",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.812792,
+          -6.6182865
+        ]
+      },
+      "id": "node/3006527889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3083790480",
+        "name": "Alfamart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8211839,
+          -6.5524014
+        ]
+      },
+      "id": "node/3083790480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3887179939",
+        "name": "Circle-K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8042867,
+          -6.6162114
+        ]
+      },
+      "id": "node/3887179939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4991518064",
+        "name": "Indomaret",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8066468,
+          -6.5789586
+        ]
+      },
+      "id": "node/4991518064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4991557614",
+        "name": "Indomaret",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8018617,
+          -6.6119723
+        ]
+      },
+      "id": "node/4991557614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4991557615",
+        "name": "Alfamart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8036243,
+          -6.6141966
+        ]
+      },
+      "id": "node/4991557615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4994363545",
+        "brand": "Alfamart",
+        "brand:wikidata": "Q23745600",
+        "brand:wikipedia": "en:Alfamart",
+        "name": "Alfamart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7930856,
+          -6.6055202
+        ]
+      },
+      "id": "node/4994363545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227082088",
+        "brand": "Indomaret",
+        "brand:wikidata": "Q4262825",
+        "brand:wikipedia": "en:Indomaret",
+        "name": "Indomaret",
+        "name:en": "Indomaret",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7909235,
+          -6.5947634
+        ]
+      },
+      "id": "node/6227082088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227094103",
+        "brand": "Indomaret",
+        "brand:wikidata": "Q4262825",
+        "brand:wikipedia": "en:Indomaret",
+        "name": "Indomaret",
+        "name:en": "Indomaret",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.795875,
+          -6.5884081
+        ]
+      },
+      "id": "node/6227094103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227108485",
+        "brand": "Alfamart",
+        "brand:wikidata": "Q23745600",
+        "brand:wikipedia": "en:Alfamart",
+        "name": "Alfamart",
+        "name:en": "Alfamart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7909101,
+          -6.5948745
+        ]
+      },
+      "id": "node/6227108485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227108486",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7902749,
+          -6.5949486
+        ]
+      },
+      "id": "node/6227108486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227123986",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "name:en": "Circle-K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.797207,
+          -6.5876834
+        ]
+      },
+      "id": "node/6227123986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227142585",
+        "brand": "Indomaret",
+        "brand:wikidata": "Q4262825",
+        "brand:wikipedia": "en:Indomaret",
+        "name": "Indomaret",
+        "name:en": "Indomaret",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.797071,
+          -6.5848346
+        ]
+      },
+      "id": "node/6227142585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227144585",
+        "name:en": "Indomaret",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7969545,
+          -6.5821532
+        ]
+      },
+      "id": "node/6227144585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227362802",
+        "name:en": "Alfamart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8085853,
+          -6.5693305
+        ]
+      },
+      "id": "node/6227362802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227363205",
+        "name:en": "Indomaret",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8081908,
+          -6.5715813
+        ]
+      },
+      "id": "node/6227363205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227475990",
+        "name:en": "Indomaret",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.807071,
+          -6.5774436
+        ]
+      },
+      "id": "node/6227475990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227650789",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "name:en": "Circle-K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8053847,
+          -6.585774
+        ]
+      },
+      "id": "node/6227650789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6464341991",
+        "name:en": "Indomaret",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8041837,
+          -6.6159287
+        ]
+      },
+      "id": "node/6464341991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7424344486",
+        "name:en": "Toko Hijau Daun",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+6289606636153",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.788462,
+          -6.5701627
+        ]
+      },
+      "id": "node/7424344486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7424460586",
+        "name:en": "F-One Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7897326,
+          -6.5657235
+        ]
+      },
+      "id": "node/7424460586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7424486585",
+        "name:en": "Inti Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7887165,
+          -6.5648374
+        ]
+      },
+      "id": "node/7424486585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8320296146",
+        "addr:city": "Bogor",
+        "addr:country": "ID",
+        "addr:housenumber": "36",
+        "addr:postcode": "16142",
+        "addr:street": "Jalan Gardu Tinggi Kebon Jukut",
+        "internet_access": "yes",
+        "name": "AA PRINT/LOKET",
+        "name:id": "LOKET AA",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "operator": "1",
+        "payment:cash": "yes",
+        "phone": "+62 898 8900 065",
+        "shop": "supermarket",
+        "website": "http://loket-aa-cell.blogspot.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8053559,
+          -6.6089754
+        ]
+      },
+      "id": "node/8320296146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9028264701",
+        "name": "Istana Buah Segar",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8008423,
+          -6.6115255
+        ]
+      },
+      "id": "node/9028264701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9028609317",
+        "atm": "yes",
+        "brand": "Alfamart",
+        "brand:wikidata": "Q23745600",
+        "brand:wikipedia": "en:Alfamart",
+        "name": "Alfamart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7947966,
+          -6.6075942
+        ]
+      },
+      "id": "node/9028609317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11017150432",
+        "name": "Alfamart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8218909,
+          -6.5825534
+        ]
+      },
+      "id": "node/11017150432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11687231236",
+        "air_conditioning": "yes",
+        "branch": "Surya Kencana 103",
+        "brand": "Alfamart",
+        "brand:wikidata": "Q23745600",
+        "name": "Alfamart",
+        "shop": "convenience",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8009337,
+          -6.6060471
+        ]
+      },
+      "id": "node/11687231236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11687231240",
+        "air_conditioning": "yes",
+        "branch": "Surya Kencana",
+        "brand": "Indomaret",
+        "brand:wikidata": "Q4262825",
+        "name": "Indomaret",
+        "opening_hours": "24/7",
+        "ref": "T704",
+        "shop": "convenience",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8045861,
+          -6.6098974
+        ]
+      },
+      "id": "node/11687231240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11780075128",
+        "name": "indomaret",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7901823,
+          -6.5826432
+        ]
+      },
+      "id": "node/11780075128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11955094587",
+        "name": "Alfamart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7969772,
+          -6.5827228
+        ]
+      },
+      "id": "node/11955094587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11964310585",
+        "name": "Indomaret",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7912842,
+          -6.5608386
+        ]
+      },
+      "id": "node/11964310585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12953777948",
+        "addr:city": "Bogor",
+        "addr:district": "Tanah Sareal",
+        "addr:housename": "Warung Teh Ade",
+        "addr:neighbourhood": "05/01",
+        "addr:postcode": "16164",
+        "addr:province": "Jawa Barat",
+        "addr:street": "Gg. Mantri Guru",
+        "addr:subdistrict": "Kedung Jaya",
+        "name": "Warung Teh Ade",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7905481,
+          -6.5729323
+        ]
+      },
+      "id": "node/12953777948"
+    }
+  ]
+}

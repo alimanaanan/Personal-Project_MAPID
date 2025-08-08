@@ -1,0 +1,513 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-08-08T02:58:53Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1014211024",
+        "highway": "bus_stop",
+        "name": "Terminal Bubulak Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7549897,
+          -6.5700107
+        ]
+      },
+      "id": "node/1014211024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700130565",
+        "designation": "#15",
+        "highway": "bus_stop",
+        "local_ref": "Situe Gedet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7456147,
+          -6.5517549
+        ]
+      },
+      "id": "node/1700130565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700350382",
+        "highway": "bus_stop",
+        "name": "Kota Angkot Halte BaranangSiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8059492,
+          -6.6053314
+        ]
+      },
+      "id": "node/1700350382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1734066080",
+        "alt_name": "Terminal Damri",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Botani Square",
+        "public_transport": "platform",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8055579,
+          -6.6020812
+        ]
+      },
+      "id": "node/1734066080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1738488162",
+        "highway": "bus_stop",
+        "name": "SKI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8219101,
+          -6.6205139
+        ]
+      },
+      "id": "node/1738488162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1784389102",
+        "highway": "bus_stop",
+        "name": "Bantar-Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8280373,
+          -6.6249126
+        ]
+      },
+      "id": "node/1784389102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3887172570",
+        "highway": "bus_stop",
+        "name": "Halte Katedral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7923232,
+          -6.5965129
+        ]
+      },
+      "id": "node/3887172570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3887172571",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Halte Jembatan Merah",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7893765,
+          -6.5958782
+        ]
+      },
+      "id": "node/3887172571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3887172572",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Halte Taman Topi",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7907688,
+          -6.5961779
+        ]
+      },
+      "id": "node/3887172572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3887179940",
+        "highway": "bus_stop",
+        "name": "Pool Bus Damri Bogor",
+        "operator": "DAMRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8106324,
+          -6.6301044
+        ]
+      },
+      "id": "node/3887179940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754561649",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Halte Pasar Gunung Batu",
+        "network": "02, 03, 14, 05",
+        "operator": "Pemkot Bogor",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7779598,
+          -6.5942575
+        ]
+      },
+      "id": "node/4754561649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4991557619",
+        "highway": "bus_stop",
+        "name": "Halte DPRD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7928963,
+          -6.5964561
+        ]
+      },
+      "id": "node/4991557619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4994363543",
+        "highway": "bus_stop",
+        "name": "Ciheuleut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8126228,
+          -6.5990361
+        ]
+      },
+      "id": "node/4994363543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227118185",
+        "highway": "bus_stop",
+        "name:en": "Sudirman 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7969134,
+          -6.5881244
+        ]
+      },
+      "id": "node/6227118185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227118186",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name:en": "Sudirman 2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7970142,
+          -6.5880706
+        ]
+      },
+      "id": "node/6227118186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227142186",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name:en": "GOR",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7965944,
+          -6.5774528
+        ]
+      },
+      "id": "node/6227142186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227142188",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name:en": "DPRD",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7965914,
+          -6.5731651
+        ]
+      },
+      "id": "node/6227142188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227362792",
+        "highway": "bus_stop",
+        "name:en": "SMPN 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8000343,
+          -6.5689275
+        ]
+      },
+      "id": "node/6227362792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227362798",
+        "highway": "bus_stop",
+        "name:en": "Jambu Dua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8078579,
+          -6.5686579
+        ]
+      },
+      "id": "node/6227362798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227366386",
+        "highway": "bus_stop",
+        "name:en": "SLPTN 8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8063675,
+          -6.5688337
+        ]
+      },
+      "id": "node/6227366386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227378486",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name:en": "Disdik",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8083777,
+          -6.573225
+        ]
+      },
+      "id": "node/6227378486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227472489",
+        "highway": "bus_stop",
+        "name:en": "Bantar Jati 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806462,
+          -6.581771
+        ]
+      },
+      "id": "node/6227472489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227475995",
+        "highway": "bus_stop",
+        "name:en": "SMKN 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8065138,
+          -6.5828606
+        ]
+      },
+      "id": "node/6227475995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227492990",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8070138,
+          -6.580354
+        ]
+      },
+      "id": "node/6227492990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227493189",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8073003,
+          -6.5776215
+        ]
+      },
+      "id": "node/6227493189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227650792",
+        "highway": "bus_stop",
+        "name:en": "IPB MM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8056339,
+          -6.5870087
+        ]
+      },
+      "id": "node/6227650792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227650793",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8054217,
+          -6.5869304
+        ]
+      },
+      "id": "node/6227650793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227667189",
+        "highway": "bus_stop",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7970365,
+          -6.5911116
+        ]
+      },
+      "id": "node/6227667189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11928283796",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pakuan 1",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.829292,
+          -6.6365762
+        ]
+      },
+      "id": "node/11928283796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11928298970",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Dishub",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.824161,
+          -6.6296367
+        ]
+      },
+      "id": "node/11928298970"
+    }
+  ]
+}
